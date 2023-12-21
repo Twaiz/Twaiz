@@ -7,5 +7,5 @@
 
 <b> My stack </b>
 
-<img src="" width="40" height="40">
+<img src="css.png" width="40" height="40">
 
