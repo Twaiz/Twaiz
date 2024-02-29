@@ -11,6 +11,10 @@
   <img src="html.png" width="60" height="60"> 
   <img src="css.png" width="60" height="60"> 
   <img src="sass.png" width="60" height="60"> 
-  <img src="github.png" width="60" height="60"> 
+  <img src="javascript.png" width="60" height="60">
+  <img src="webpack.png" width="60" height="60">
+  <img src="git.png" width="60" height="60">
+  <img src="github.png" width="60" height="60">
+  <img src="terminal.png" width="60" height="60">
   <img src="visual-studio-code.png" width="60" height="60">
 </div>
