@@ -8,7 +8,7 @@
 <b> My stack </b>
 
 <div>
-  <img src="html.png" width="60" height="60"> 
+  <img class="image" src="html.png" width="60" height="60"> 
   <img src="css.png" width="60" height="60"> 
   <img src="sass.png" width="60" height="60"> 
   <img src="javascript.png" width="60" height="60">
@@ -19,3 +19,8 @@
   <img src="terminal.png" width="60" height="60">
   <img src="visual-studio-code.png" width="60" height="60">
 </div>
+
+
+.image {
+  margin-right: 30px
+}
