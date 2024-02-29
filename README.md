@@ -1,8 +1,8 @@
 <h1> Hi there, I'm Bohdan 👋 </h1>
 <ul>
   <li> <h2>🔭 I’m currently working <b> on JavaScript</h2> </b> </li>
-  <li> 👀 I’m interested in  <b> everything about Frontend </b> </li>
-  <li> 🌱 I’m currently learning  <b> JavaScript </b> </li>
+  <li> <h2>👀 I’m interested in  <b> everything about Frontend</h2> </b> </li>
+  <li> <h2>🌱 I’m currently learning  <b> JavaScript</h2> </b> </li>
 </ul>
 
 <b> My stack </b>
