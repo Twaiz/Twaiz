@@ -9,7 +9,7 @@
 
 <div>
   <img class="image" src="html.png" width="60" height="60"> 
-  <img src="css.png" width="60" height="60"> 
+  <img src="css.png" width="80" height="80"> 
   <img src="sass.png" width="60" height="60"> 
   <img src="javascript.png" width="60" height="60">
   <img src="webpack.png" width="60" height="60">
