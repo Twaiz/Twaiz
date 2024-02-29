@@ -2,10 +2,10 @@
 <ul>
   <li> <h3>🔭 I’m currently working <b> on Projects</h3> </b> </li>
   <li> <h3>👀 I’m interested in  <b> everything about Front-end</h3> </b> </li>
-<!--   <li> <h3>🌱 I’m currently learning  <b> JavaScript</h3> </b> </li> -->
+  <li> <h3>🌱 I’m currently learning  <b> React</h3> </b> </li>
 </ul>
 
-<h1>3>y stack </h1>
+<h1>>y stack </h1>
 
 <div>
   <img class="image" src="html.png" width="60" height="60"> 
