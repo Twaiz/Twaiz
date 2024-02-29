@@ -18,5 +18,4 @@
   <img src="github.png" width="60" height="60">
   <img src="terminal.png" width="60" height="60">
   <img src="visual-studio-code.png" width="60" height="60">
-  <img src="figma.png" width="60" height="60">
 </div>
