@@ -5,7 +5,7 @@
   <li> <h3>🌱 I’m currently learning  <b> React</h3> </b> </li>
 </ul>
 
-<h1>>y stack </h1>
+<h1>My stack </h1>
 
 <div>
   <img class="image" src="html.png" width="60" height="60"> 
