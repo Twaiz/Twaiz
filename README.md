@@ -13,6 +13,7 @@
   <img src="sass.png" width="60" height="60"> 
   <img src="javascript.png" width="60" height="60">
   <img src="webpack.png" width="60" height="60">
+  <img src="parcel.png" width="60" height="60">
   <img src="git.png" width="60" height="60">
   <img src="github.png" width="60" height="60">
   <img src="terminal.png" width="60" height="60">
