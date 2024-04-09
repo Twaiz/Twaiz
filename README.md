@@ -12,6 +12,9 @@
   <img src="css.png" width="80" height="80"> 
   <img src="sass.png" width="80" height="80"> 
   <img src="javascript.png" width="80" height="80">
+  <img src="typescript-icon.png" width="80" height="80">
+  <img src="react.png" width="80" height="80">
+  <img src="nextjs.png" width="80" height="80">
   <img src="webpack.png" width="80" height="80">
   <img src="parcel.png" width="80" height="80">
   <img src="git.png" width="80" height="80">
