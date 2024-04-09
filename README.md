@@ -8,8 +8,8 @@
 <h1>My stack </h1>
 
 <div>
-  <img class="image" src="html.png" width="64" height="64"> 
-  <img src="css.png" width="64" height="64"> 
+  <img class="image" src="html.png" width="72" height="72"> 
+  <img src="css.png" width="72" height="72"> 
   <img src="sass.png" width="64" height="64"> 
   <img src="javascript.png" width="64" height="64">
   <img src="typescript-icon.png" width="64" height="64">
