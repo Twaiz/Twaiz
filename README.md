@@ -1,4 +1,4 @@
-<h1> Hi, I'm Bohdan 👋 </h1>
+<h1> Hi, I'm Bohdan 12 years👋 </h1>
 <ul>
   <li> <h3>🔭 I’m currently working <b> on WebSite</h3> </b> </li>
   <li> <h3>👀 I’m interested in  <b> everything about Front-end</h3> </b> </li>
