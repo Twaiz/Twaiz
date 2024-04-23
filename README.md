@@ -24,15 +24,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" height="30" alt="node js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node js logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/3767/sql" height="30" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/20906/git" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />  
   <img width="12" />
-  <img src="https://icons8.com/icon/sOWbK4N3cxGh/webpack" height="30" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
 </div>
 
