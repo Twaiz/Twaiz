@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Bohdan and I'm a boys 12 years, from Ukraine</h2>
 
 ###
 
