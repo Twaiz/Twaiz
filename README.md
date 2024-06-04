@@ -16,6 +16,8 @@
 <div>
   <img src="javascript.png" width="60" height="60" alt="javascript logo"  />
   <img src="typescript-icon.png" width="60" height="60" alt="typescript logo"  />
+  <img src="react.png" width="65" height="60" alt="typescript logo"  />
+  <img src="nextjs.png" width="65" height="60" alt="typescript logo"  />
   <img src="nodejs.png" width="60" height="60" alt="react logo"  />
   <img src="html.png" width="60" height="60" alt="html5 logo"  />
   <img src="css.png" width="60" height="60" alt="css3 logo"  />
