@@ -19,6 +19,9 @@
   <img src="nodejs.png" width="60" height="60" alt="react logo"  />
   <img src="html.png" width="60" height="60" alt="html5 logo"  />
   <img src="css.png" width="60" height="60" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="csharp logo"  />
+  <img src="sass.png" width="60" height="60" alt="python logo"  />
+  <img src="webpack.png" width="60" height="60" alt="csharp logo"  />
+  <img src="vite.png" width="60" height="60" alt="csharp logo"  />
+  <img src="git.png" width="60" height="60" alt="csharp logo"  />
+  <img src="github.png" width="60" height="60" alt="csharp logo"  />
 </div>
