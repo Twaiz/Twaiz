@@ -24,3 +24,7 @@
   <img src="git.png" width="60" height="60" alt="csharp logo"  />
   <img src="github.png" width="60" height="60" alt="csharp logo"  />
 </div>
+
+###
+  
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Описание GIF" width="320" height="200">
