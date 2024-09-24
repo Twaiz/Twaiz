@@ -8,6 +8,9 @@
   <li>🔭 Working on a lot of different stuff </li>
   <li>🌱 Learning everything I can get my hands on</li>
   <li>🤔 Looking for help with finding more time in a single day</li>
+  <li>
+    💌 How to reach me: <a href="mailto:homenkobodya@gmail.com">homenkobodya@gmail.com</a>
+  </li>
   <li>⚡ Fun fact: I love coding and learning something new./li>
 </ul>
 
