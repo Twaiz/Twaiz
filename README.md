@@ -21,6 +21,7 @@
   <img src="javascript.png" width="60" height="60" alt="javascript logo"  />
   <img src="typescript-icon.png" width="60" height="60" alt="typescript logo"  />
   <img src="express.png" width="60" height="60" alt="express logo"  />
+  <img src="nestjs.png" width="60" height="60" alt="express logo"  />
   <img src="mongodb.png" width="60" height="60" alt="express logo"  />
   <img src="react.png" width="65" height="60" alt="typescript logo"  />
   <img src="html.png" width="60" height="60" alt="html5 logo"  />
@@ -30,3 +31,7 @@
   <img src="git.png" width="60" height="60" alt="csharp logo"  />
   <img src="github.png" width="60" height="60" alt="csharp logo"  />
 </div>
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twaiz&layout=compact)
