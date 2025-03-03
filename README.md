@@ -11,7 +11,7 @@
   <li>
     💌 How to reach me: <a href="mailto:homenkobodya@gmail.com">homenkobodya@gmail.com</a>
   </li>
-  <li>⚡ Fun fact: I love coding and learning something new.</li>
+  <li>⚡ Fun fact: I love coding and learning something new and I hate GitHub Actions 👿.</li>
 </ul>
 
 <h3>My stack</h3>
