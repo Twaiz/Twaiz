@@ -1,6 +1,6 @@
 <h1 style={color: black}><b>This «thing» is under construction... <span>👨‍🎨</span></b></h1>
 
-<h2>I'm coming back🎰! Gaming world, wait for me!</h2>
+<h2>I'm coming back🎰! Gaming world, wait for me! C++ ....</h2>
 
 ###
 
