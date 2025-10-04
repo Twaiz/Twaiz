@@ -17,6 +17,7 @@
 <h3>My stack</h3>
 
 <div>
+  <img src="c-.png" width="60" height="60" alt="cpp logo"  />
   <img src="nodejs.png" width="60" height="60" alt="nodejs logo"  />
   <img src="javascript.png" width="60" height="60" alt="javascript logo"  />
   <img src="typescript-icon.png" width="60" height="60" alt="typescript logo"  />
