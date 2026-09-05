@@ -30,5 +30,5 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twaiz&layout=compact)
+Statistics will be posted here someday. But when? ㊙️
 
