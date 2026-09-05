@@ -1,15 +1,19 @@
-<h1 style={color: black}><b>This «thing» is under construction... <span>👨‍🎨</span></b></h1>
+<h1 style={color: black}><b>So... What «should» I write here?<span>🎴</span></b></h1>
 
 ###
 
-<h3>Hi there, I'm 👶Bohdan 👋</h3>
+<h3>What do I do?</h3>
 
 <ul>
-  <li>🔭 Working on a lot of different stuff </li>
-  <li>🌱 Learning everything I can get my hands on</li>
-  <li>🤔 Looking for help with finding more time in a single day</li>
-  <li>⚡ Fun fact: I love coding and learning something new and I hate GitHub Actions and Nx and Monorepo 👿.</li>
+  <li>OSS Contributor</li>
+  <li>OSHW Contributor</li>
+  <li>Building own projects</li>
+  <li>Growing in engineering, robotics, UAVs</li>
 </ul>
+
+<h3>Want to collaborate 🎎? Have any suggestions? Write to me 🫠</h3>
+
+###
 
 <h3>My stack</h3>
 
@@ -30,5 +34,5 @@
 
 ###
 
-Statistics will be posted here someday. But when? ㊙️
+<p>Statistics will be posted here someday. But when? ㊙️</p>
 
