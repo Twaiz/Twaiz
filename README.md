@@ -1,38 +1,44 @@
-<h1 style={color: black}><b>So... What «should» I write here?<span>🎴</span></b></h1>
+<h1 align="center"><b>So... What «should» I write here?<span>🎴</span></b></h1>
 
 ###
 
-<h3>What do I do?</h3>
-
-<ul>
-  <li>OSS Contributor</li>
-  <li>OSHW Contributor</li>
-  <li>Building own projects</li>
-  <li>Growing in engineering, robotics, UAVs</li>
-</ul>
-
-<h3>Want to collaborate 🎎? Have any suggestions? Write to me 🫠</h3>
+<p align="center">
+  <img src="asd.gif" alt="Robotics and UAV animation" width="450" style="max-width: 100%; border-radius: 4px;" />
+</p>
 
 ###
 
-<h3>My stack</h3>
+<div align="center">
 
-<div>
-  <img src="c-.png" width="60" height="60" alt="cpp logo"  />
-  <!-- <img src="nodejs.png" width="60" height="60" alt="nodejs logo"  />
-  <img src="javascript.png" width="60" height="60" alt="javascript logo"  />
-  <img src="typescript-icon.png" width="60" height="60" alt="typescript logo"  />
-  <img src="express.png" width="60" height="60" alt="express logo"  />
-  <img src="nestjs.png" width="60" height="60" alt="express logo"  />
-  <img src="mongodb.png" width="60" height="60" alt="express logo"  />
-  <img src="react.png" width="65" height="60" alt="typescript logo"  />
-  <img src="nextjs.png" width="65" height="60" alt="typescript logo"  />
-  <img src="html.png" width="60" height="60" alt="html5 logo"  />
-  <img src="css.png" width="60" height="60" alt="css3 logo"  />
-  <img src="sass.png" width="60" height="60" alt="python logo"  /> -->
+  <h3>What do I do?</h3>
+  <p>
+    • OSS Contributor <br/>
+    • OSHW Contributor <br/>
+    • Building own projects <br/>
+    • Growing in engineering, robotics, UAVs
+  </p>
+
+  <br/>
+
+  <h3>Want to collaborate 🎎? Have any suggestions? Write to me 🫠</h3>
+
 </div>
 
 ###
 
-<p>Statistics will be posted here someday. But when? ㊙️</p>
+<div align="center">
+  <h3>My stack</h3>
 
+  <div>
+    <img src="c-.png" width="60" height="60" alt="cpp logo"  />
+    <img src="opencv.webp" width="60" height="60" alt="opencv logo"  />
+    <img src="tensorflow.jpg" width="60" height="60" alt="tensorflow logo"  />
+    <img src="kicad.webp" width="60" height="60" alt="kicad logo"  />
+    <img src="stmicroelectronics.svg" width="60" height="60" alt="stmicroelectronics logo"  />
+    
+  </div>
+
+  ###
+
+  <p>Statistics will be posted here someday. But when? ㊙️</p>
+</div>
