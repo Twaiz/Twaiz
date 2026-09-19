@@ -10,17 +10,20 @@
 
 <div align="center">
 
-  <h3>What do I do?</h3>
-  <p>
-    • OSS Contributor <br/>
-    • OSHW Contributor <br/>
-    • Building own projects <br/>
-    • Growing in engineering, robotics, UAVs
-  </p>
+   <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <pre align="center"><b>What do I do?</b></pre>
+        <pre>
+ > OSS Contributor
+ > OSHW Contributor
+ > Building own projects
+ > Growing in engineering, robotics, UAVs</pre>
+      </td>
+    </tr>
+  </table>
 
   <br/>
-
-  <h3>Want to collaborate 🎎? Have any suggestions? Write to me 🫠</h3>
 
 </div>
 
