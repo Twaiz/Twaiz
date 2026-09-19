@@ -31,8 +31,8 @@
 
   <div>
     <img src="c-.png" width="60" height="60" alt="cpp logo"  />
-    <img src="opencv.webp" width="60" height="60" alt="opencv logo"  />
-    <img src="tensorflow.jpg" width="60" height="60" alt="tensorflow logo"  />
+    <img src="opencv.png" width="60" height="60" alt="opencv logo"  />
+    <img src="tensorflow.svg" width="60" height="60" alt="tensorflow logo"  />
     <img src="kicad.webp" width="60" height="60" alt="kicad logo"  />
     <img src="stmicroelectronics.svg" width="60" height="60" alt="stmicroelectronics logo"  />
     
